@@ -112,7 +112,7 @@ flowchart LR
 Requires **Python 3.12** (PyAudio has no prebuilt wheel for newer versions yet) and a microphone.
 
 ```bash
-git clone https://github.com/<your-username>/voice-triage-agent.git
+git clone https://github.com/josephajo-create/voice-triage-agent.git
 cd voice-triage-agent
 
 py -V:3.12 -m venv .venv
