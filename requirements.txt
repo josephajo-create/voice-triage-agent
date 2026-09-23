@@ -1,0 +1,6 @@
+assemblyai>=1.5.5
+pyaudio>=0.2.14
+python-dotenv>=1.0
+openai>=1.0
+pyttsx3>=2.90
+comtypes>=1.2; sys_platform == "win32"
